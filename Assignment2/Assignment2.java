@@ -133,13 +133,6 @@ public class Assignment2 {
         employee.raiseSalary(300);
     }
 
-    public static void main(String[] args) {
-        Assignment2 assignment = new Assignment2();
-        Employee a = new Employee("Jenny", 20, Gender.FEMALE, 2000);
-        Employee b = new Employee("John", 30, Gender.MALE, 2500);
-        Employee c = new Employee("Susie", 50, Gender.FEMALE, 8900);
-        assignment.socialSecurityTax(c);
-    }
 
 
 
