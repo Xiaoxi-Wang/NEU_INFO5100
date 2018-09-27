@@ -7,6 +7,7 @@
  */
 import java.util.Arrays;
 
+//score: 2/2
 class Employee {
     String name;
     int age;
@@ -48,6 +49,7 @@ enum Gender {
 public class Assignment2 {
     // Assignment
 
+    //score: 2/2
     /**
      * Write a method to calculate the Social Security Tax of an employee and print it.
      * If the salary is less than or equal to 8900, the Social Security Tax is 6.2% of the salary.
@@ -73,14 +75,16 @@ public class Assignment2 {
      * If the employee is under 35, rate is 3% of salary; if the employee is between 35 and 50(inclusive), rate is 4% of salary;
      * If the employee is between 50 and 60(exclusive), rate is 5% of salary; If the employee is above 60, rate is 6% of salary.
      */
+    
+    //score: 1/2
     public double insuranceCoverage(Employee employee) {
         //write your code here
         double insuranceCoverageOfEmployee;
         if (employee.age < 35) {
             insuranceCoverageOfEmployee = employee.salary * 0.03;
-        } else if (employee.age <= 50) {
+        } else if (employee.age <= 50) { //should be (employee.age >= 35 & employee.age <= 50)
             insuranceCoverageOfEmployee = employee.salary * 0.04;
-        } else if (employee.age < 60) {
+        } else if (employee.age < 60) { //should be (employee.age > 50 & employee.age < 60)
             insuranceCoverageOfEmployee = employee.salary * 0.05;
         } else {
             insuranceCoverageOfEmployee = employee.salary * 0.06;
@@ -95,6 +99,7 @@ public class Assignment2 {
      * For example, Alice's salary is 1000, John's salary is 500, Jenny's salary is 1200, you should print:
      * John Alice Jenny
      */
+    //score:2/2
     public void sortSalary(Employee e1, Employee e2, Employee e3) {
         //write your code here
         String[] names;
@@ -122,12 +127,14 @@ public class Assignment2 {
         System.out.println(Arrays.toString(names));
     }
 
+    
     /**
      * Write a method to raise an employee's salary to three times of his/her original salary.
      * Eg: original salary was 1000/month. After using this method, the salary is 3000/month.
      * Do not change the input of this method.
      * Try to add a new method in Employee class: public void raiseSalary(double byPercent)
      */
+    //score: 2/2
     public void tripleSalary(Employee employee) {
         //write your code here
         employee.raiseSalary(300);
@@ -135,7 +142,7 @@ public class Assignment2 {
 
 
 
-
+//score: 2/2
     //Extra credit
 
     /**
