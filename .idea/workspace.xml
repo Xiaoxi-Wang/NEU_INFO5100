@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45002ada-356c-4e67-b6d7-57f90dac5b97" name="Default Changelist" comment="" />
+    <list default="true" id="45002ada-356c-4e67-b6d7-57f90dac5b97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment5/tst/CandyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/tst/DessertShoppeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/tst/SundaeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NEU_INFO5100.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NEU_INFO5100.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4/Assignment4.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,77 +27,202 @@
     <session id="-1770847544">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="java" value="4" />
+          <entry key="java" value="37" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="3" />
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="37" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="57" />
-          <entry key="java" value="2390" />
+          <entry key="java" value="7862" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="57" />
-          <entry key="JAVA" value="2390" />
+          <entry key="JAVA" value="7862" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment4/Assignment4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
-              <folding>
-                <element signature="docComment;method#firstUniqChar#0;class#Assignment4#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment2/Assignment2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/Candy.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/tst/CandyTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment4/Assignment4.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/DessertShoppe.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/DessertItem.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/TestCheckout.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/Sundae.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="345">
+                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/Checkout.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="675">
+                  <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/Cookie.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/src/IceCream.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assignment5/tst/CandyTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/tst/DessertShoppeTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="8" column="28" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="28" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assignment5/tst/SundaeTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Assignment5/tst</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,9 +231,31 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assignment2/Assignment2.java" />
-        <option value="$PROJECT_DIR$/Assignment4/Assignment4.java" />
         <option value="$PROJECT_DIR$/.idea/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assignment5/TestCheckout.java" />
+        <option value="$PROJECT_DIR$/Assignment4/Assignment4.java" />
+        <option value="$PROJECT_DIR$/Assignment5/IceCream.java" />
+        <option value="$PROJECT_DIR$/Assignment5/ExtraCredit.java" />
+        <option value="$PROJECT_DIR$/Assignment5/DessertShoppe.java" />
+        <option value="$PROJECT_DIR$/Assignment5/Checkout.java" />
+        <option value="$PROJECT_DIR$/Assignment5/Candy.java" />
+        <option value="$PROJECT_DIR$/Assignment5/Cookie.java" />
+        <option value="$PROJECT_DIR$/Assignment5/Sundae.java" />
+        <option value="$PROJECT_DIR$/Assignment5/DessertItem.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/DessertShoppe.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/Checkout.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/Cookie.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/DessertItem.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/IceCream.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/Sundae.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/TestCheckout.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/ExtraCredit.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/ExtraCreditAssignment5.java" />
+        <option value="$PROJECT_DIR$/Assignment5/src/Candy.java" />
+        <option value="$PROJECT_DIR$/Assignment5/tst/DessertShoppeTest.java" />
+        <option value="$PROJECT_DIR$/Assignment5/tst/SundaeTest.java" />
+        <option value="$PROJECT_DIR$/Assignment5/tst/CandyTest.java" />
       </list>
     </option>
   </component>
@@ -124,6 +279,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -135,25 +291,19 @@
             <path>
               <item name="NEU_INFO5100" type="b2602c69:ProjectViewProjectNode" />
               <item name="NEU_INFO5100" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NEU_INFO5100" type="b2602c69:ProjectViewProjectNode" />
               <item name="NEU_INFO5100" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment2" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="NEU_INFO5100" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NEU_INFO5100" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment4" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,11 +312,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539415612793" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540018142155" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -183,15 +333,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CandyTest.testToString">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2" />
+    <configuration name="TestCheckout (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCheckout" />
       <module name="NEU_INFO5100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -203,8 +353,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in NEU_INFO5100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NEU_INFO5100" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CandyTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NEU_INFO5100" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CandyTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DessertShoppeTest.testCents2DollarsAndCentsMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NEU_INFO5100" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DessertShoppeTest" />
+      <option name="METHOD_NAME" value="testCents2DollarsAndCentsMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SundaeTest.testGetCost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NEU_INFO5100" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SundaeTest" />
+      <option name="METHOD_NAME" value="testGetCost" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="TestNG" factoryName="TestNG">
+      <module name="NEU_INFO5100" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/Assignment5" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -226,9 +439,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.Unnamed" />
+      <item itemvalue="Application.TestCheckout (1)" />
+      <item itemvalue="JUnit.All in NEU_INFO5100" />
+      <item itemvalue="JUnit.DessertShoppeTest.testCents2DollarsAndCentsMethod" />
+      <item itemvalue="JUnit.SundaeTest.testGetCost" />
+      <item itemvalue="JUnit.CandyTest.testToString" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Assignment2" />
+        <item itemvalue="JUnit.CandyTest.testToString" />
+        <item itemvalue="JUnit.SundaeTest.testGetCost" />
+        <item itemvalue="JUnit.DessertShoppeTest.testCents2DollarsAndCentsMethod" />
+        <item itemvalue="JUnit.All in NEU_INFO5100" />
+        <item itemvalue="Application.TestCheckout (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -249,49 +474,59 @@
       <workItem from="1539397854928" duration="1890000" />
       <workItem from="1539407805415" duration="3355000" />
       <workItem from="1539411348750" duration="739000" />
-      <workItem from="1539415062901" duration="537000" />
+      <workItem from="1539415062901" duration="683000" />
+      <workItem from="1539640747640" duration="3441000" />
+      <workItem from="1539712946113" duration="4474000" />
+      <workItem from="1539828686406" duration="260000" />
+      <workItem from="1539907725913" duration="808000" />
+      <workItem from="1539921629238" duration="1201000" />
+      <workItem from="1539972615037" duration="11745000" />
+      <workItem from="1539999001581" duration="328000" />
+      <workItem from="1540005780113" duration="6900000" />
+      <workItem from="1540017195856" duration="976000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 32m 13s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 33m 04s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 34m 10s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 36m 17s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 37m 19s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 38m 32s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 41m 09s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 41m 21s.xml">
-      <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="All_Features_in__Assignment4 - 2018.10.12 at 22h 47m 53s.xml">
       <configuration name="All Features in: Assignment4" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
     <history-entry file="All_Features_in__Assignment2 - 2018.10.12 at 22h 49m 06s.xml">
       <configuration name="All Features in: Assignment2" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="AssignmentTest - 2018.10.19 at 22h 41m 45s.xml">
+      <configuration name="AssignmentTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="All_in_NEU_INFO5100 - 2018.10.19 at 22h 42m 49s.xml">
+      <configuration name="All in NEU_INFO5100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_NEU_INFO5100 - 2018.10.19 at 22h 43m 17s.xml">
+      <configuration name="All in NEU_INFO5100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_NEU_INFO5100 - 2018.10.19 at 22h 43m 51s.xml">
+      <configuration name="All in NEU_INFO5100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_NEU_INFO5100 - 2018.10.19 at 23h 01m 22s.xml">
+      <configuration name="All in NEU_INFO5100" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DessertShoppeTest_testCents2DollarsAndCentsMethod - 2018.10.19 at 23h 01m 30s.xml">
+      <configuration name="DessertShoppeTest.testCents2DollarsAndCentsMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SundaeTest_testGetCost - 2018.10.19 at 23h 13m 29s.xml">
+      <configuration name="SundaeTest.testGetCost" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CandyTest_testToString - 2018.10.19 at 23h 16m 21s.xml">
+      <configuration name="CandyTest.testToString" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11755000" />
+    <option name="totallyTimeSpent" value="42034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-34" width="1920" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1171459" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10596379" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -300,7 +535,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28556263" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -311,7 +546,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Messages" order="13" visible="true" weight="0.32908705" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -340,27 +575,136 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/Assignment2/Assignment2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
+        <state relative-caret-position="429">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/Cookie.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/IceCream.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/Sundae.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/DessertShoppe.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/ExtraCredit.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/TestCheckout.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/Checkout.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/DessertItem.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/Candy.java" />
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/ExtraCreditAssignment5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3/src/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment4/Assignment4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+        <state relative-caret-position="240">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/DessertShoppe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/TestCheckout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/tst/CandyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="docComment;method#firstUniqChar#0;class#Assignment4#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment2/Assignment2.java">
+    <entry file="file://$PROJECT_DIR$/Assignment5/tst/DessertShoppeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
+        <state relative-caret-position="105">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/tst/SundaeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/Sundae.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/Candy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/Checkout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/Cookie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/src/DessertItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -393,6 +737,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>ant:ant-junit:1.6.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -421,7 +766,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
